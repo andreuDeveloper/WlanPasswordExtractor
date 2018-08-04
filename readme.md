@@ -4,6 +4,6 @@ Batch script that take the saved wlan passwords of the Windows system and create
 
 
 IMPORTANT: Actually I got the profiles name doing a substring of a returned sentences... This substring is calcualted manually, so the letters of the substring are calculated for the Spanish Language of the system / cmd.
-And the same with an findstr sentence, is calculated in Spanish.. So, it will not works in the other language, but feel free or improve the code!
+And the same with an findstr sentence, is calculated in Spanish.. So, it will not works in other language, but feel free of adapt it to your lang or improve the code! Have fun!
 
 If some improvment is done, pls share it! :D Thanks!
